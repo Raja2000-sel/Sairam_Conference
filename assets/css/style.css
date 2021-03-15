@@ -1751,11 +1751,11 @@ section {
 }
 
 
-#headers .countdown {
+#header .countdown {
   margin-bottom: 40px;
 }
 
-#headers .countdown div {
+#header .countdown div {
   text-align: center;
   border: 2px solid rgba(255, 255, 255, 0.8);
   border-radius: 5px;
@@ -1764,28 +1764,28 @@ section {
   padding: 5px 5px;
 }
 
-#headers .countdown div h3 {
+#header .countdown div h3 {
   font-weight: 700;
   font-size: 32px;
   margin-bottom: 15px;
 }
 
-#headers .countdown div h4 {
+#header .countdown div h4 {
   font-size: 16px;
   font-weight: 600;
 }
 
 @media (max-width: 575px) {
-  #headers .countdown div {
+  #header .countdown div {
     width: 70px;
     padding: 10px 0;
     margin: 10px 8px;
   }
-  #headers .countdown div h3 {
+  #header .countdown div h3 {
     font-size: 28px;
     margin-bottom: 10px;
   }
-  #headers .countdown div h4 {
+  #header .countdown div h4 {
     font-size: 14px;
     font-weight: 500;
   }
